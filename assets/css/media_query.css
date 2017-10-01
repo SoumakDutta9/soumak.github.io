@@ -1,0 +1,139 @@
+/*media query*/
+
+@media only screen and (max-width: 900px) {
+  #mainmenu {
+    display: none;
+  }
+  .mid-section img {
+    width: 100%;
+  }
+  #menu_icon {
+    display: block;
+  }
+  .mainslider {
+    display: block;
+  }
+  .dropdown_item {
+    display: none;
+  }
+  .logo {
+    margin: 0;
+  }
+  .band-of-trust {
+    display: none;
+  }
+  .search_box {
+    width: 60vw;
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .extra-grid {
+    display: block;
+  }
+  #back {
+    display: none;
+  }
+  .catalog img {
+    width: 100%;
+  }
+  .item h4,h5{
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 570px) {
+
+  .back_icon {
+    float: left;
+    font-size: 20px;
+  }
+  .search_box {
+    width: 50vw;
+    margin-right: 50px;
+  }
+  .logo {
+    width: 120px;
+  }
+  #menu_icon {
+    margin-left: 0;
+  }
+  #header_icons {
+    right: 30px;
+    top: 13px;
+  }
+  #header_icons img {
+    margin: 5px 0;
+    height: 18px;
+    width: 18px;
+  }
+  #mainfooter {
+    padding: 40px 20px 30px;
+  }
+  .extra-grid {
+    display: block;
+  }
+  .back {
+    display: none;
+  }
+  #icons img {
+    height: 40px;
+    width: 40px;
+  }
+  .mid-section img {
+    width: 100%;
+  }
+  .mid-section h3 {
+    font-size: 15px;
+    margin: 20px 0;
+  }
+  .mid-section h4 {
+    font-size: 14px;
+    padding: 0;
+  }
+  .mid-section h5 {
+    font-size: 12px;
+    padding: 0;
+  }
+  .band-of-trust {
+    display: none;
+  }
+  #footer_email_box {
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+    margin-left: 0px;
+  }
+  #footer_subscribe_button {
+    width: 90px;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 50px;
+    line-height: 15px;
+  }
+  .search_box {
+    position: absolute;
+    top: 55px;
+    right: 0;
+    z-index: 10;
+    width: 80vw;
+  }
+}
+
+@media only screen and (max-width: 370px) {
+  .catagories_item li {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width:1300px) {
+  .back_icon {
+    left: 90px;
+  }
+}
+
+@media only screen and (max-width:1150px) {
+  .back_icon {
+    left: 60px;
+  }
+}

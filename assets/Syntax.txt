@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Index</title>
+  <!-- bootstrap js-->
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <!-- jquery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <!--bootstrap css-->
+  <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <!--font awesome-->
+  <link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+  <!--google fonts-->
+  <link href="https://fonts.googleapis.com/css?family=Karla|Lato|Muli|Nunito|Open+Sans|Oxygen|Quicksand|Raleway|Roboto|Ubuntu" rel="stylesheet">
+  <!--external css-->
+  <link href="css/home_style.css" rel="stylesheet" />
+  <!--internal css-->
+  <style type="text/css">
+    * {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-family: 'Roboto', sans-serif;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!--Code goes here-->
+
+  <!-- bootstrap js-->
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <!-- jquery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+</body>
+
+</html>
